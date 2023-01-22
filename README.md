@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner from India</h3>
 
 <img aling="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476d4pszmsd2hrbjzcxij6txhvz9ocnevy66wzehyl&rid=giphy.gif&ct=g">
-<p align="left"> <a href="https://twitter.com/priyanshu190479" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu190479?logo=twitter&style=for-the-badge" alt="priyanshu190479" /></a> </p>
+
 
 - 🌱 I’m currently learning **web development**
 
