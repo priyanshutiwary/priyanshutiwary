@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 📫 How to reach me **priyanshutiwary@gmail.com**
+- 📫 How to reach me **priyanshutiwary711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
