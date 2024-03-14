@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/bYwl2rr.gif" alt="Coding GIF" width="500" />
+  <img src="https://imgs.search.brave.com/Fvq876cowqG8Vu0Q91A7tP4bC4qbdISgZv3eS4_8_eQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/NTUwNjY5MzEtNDM2/NWQxNGJhYjhjP3E9/ODAmdz0xMDAwJmF1/dG89Zm9ybWF0JmZp/dD1jcm9wJml4bGli/PXJiLTQuMC4zJml4/aWQ9TTN3eE1qQTNm/REI4TUh4elpXRnlZ/Mmg4T0h4OFkyOWta/WHhsYm53d2ZId3dm/SHg4TUE9PQ" alt="Coding GIF" width="500" />
 </div>
 
 <h1 align="center">Hey there! 👋 I'm Priyanshu Kumar</h1>
