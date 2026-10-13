@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/art-dark.svg">
+  <img src="assets/art-light.svg" width="100%" alt="">
 </picture>
 
 <picture>
