@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Priyanshu Kumar, software engineer building mobile and web products">
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="1198" height="318" rx="20"/></clipPath>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#1f2328" fill-opacity="0.07"/></pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#db61a2"/><stop offset="1" stop-color="#8957e5"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="318" rx="20" fill="#ffffff"/>
+  <g clip-path="url(#card)">
+    <g filter="url(#blur)" opacity="0.30">
+      <circle cx="930" cy="70" r="150" fill="#db61a2">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -60 50; 0 0" dur="19s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1090" cy="250" r="170" fill="#8957e5">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -80 -40; 0 0" dur="23s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="760" cy="300" r="120" fill="#388bfd">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 70 -50; 0 0" dur="27s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <rect width="1200" height="320" fill="url(#dots)"/>
+    <rect width="820" height="320" fill="url(#fade)"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="318" rx="20" fill="none" stroke="#d1d9e0" stroke-width="1"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+    <text x="72" y="98" font-size="15" font-weight="600" letter-spacing="4" fill="#59636e">HELLO, I&#8217;M</text>
+    <text x="70" y="168" font-size="66" font-weight="700" letter-spacing="-1.5" fill="#1f2328">Priyanshu Kumar</text>
+    <rect x="72" y="194" width="56" height="4" rx="2" fill="url(#accent)"/>
+    <circle cx="78" cy="241" r="5" fill="#db61a2">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="96" y="248" font-size="22" fill="#59636e">Software engineer building mobile and web products</text>
+  </g>
+</svg>
